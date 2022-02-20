@@ -3,8 +3,8 @@
 #### I am Jismon, a frontend developer & web designer. 👦🏻
 
 - 🧑🏻‍💻   &nbsp; I’m currently working at Solaris Management Consultants
-- 🖥   &nbsp; A web designer & a frontend Developer
-- 🌱   &nbsp; Currently learning react & redux
+- 🖥   &nbsp; Frontend Developer
+- 🌱   &nbsp; Currently learning react
 - 📫   &nbsp; How to reach me: <a href='https://www.linkedin.com/in/jismonthomas/'>LinkedIn</a> | <a href='mailto:hellojismonthomas@gmail.com'>Email</a>
 
 <!--
