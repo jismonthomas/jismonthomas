@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Jismon, a frontend developer & web designer. 👦🏻
+#### I am Jismon, a frontend developer 👦🏻
 
 - 🧑🏻‍💻   &nbsp; I’m currently working at Solaris Management Consultants
 - 🖥   &nbsp; Frontend Developer
