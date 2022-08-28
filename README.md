@@ -2,7 +2,7 @@
 
 #### I am Jismon, a frontend developer 👦🏻
 
-- 🧑🏻‍💻   &nbsp; I’m currently working at Solaris Management Consultants
+- 🧑🏻‍💻   &nbsp; I’m currently working at Ensol Systems
 - 🖥   &nbsp; Frontend Developer
 - 🌱   &nbsp; Currently learning react
 - 📫   &nbsp; How to reach me: <a href='https://www.linkedin.com/in/jismonthomas/'>LinkedIn</a> | <a href='mailto:hellojismonthomas@gmail.com'>Email</a>
