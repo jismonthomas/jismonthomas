@@ -4,7 +4,6 @@
 
 - 🧑🏻‍💻   &nbsp; I’m currently working at <a href='https://www.ensolsystems.com/' target="_blank">Ensol Systems</a>
 - 🖥   &nbsp; Frontend Developer
-- 🌱   &nbsp; Currently learning react
 - 📫   &nbsp; How to reach me: <a href='https://www.linkedin.com/in/jismonthomas/'>LinkedIn</a> | <a href='mailto:hellojismonthomas@gmail.com'>Email</a>
 
 <!--
