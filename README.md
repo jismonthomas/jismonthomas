@@ -6,6 +6,9 @@
 - 🖥   &nbsp; Software Developer
 - 📫   &nbsp; How to reach me: <a href='https://www.linkedin.com/in/jismonthomas/'>LinkedIn</a> | <a href='mailto:hellojismonthomas@gmail.com'>Email</a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **jismonthomas/jismonthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
