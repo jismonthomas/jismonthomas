@@ -9,6 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```javascript
+Total Time: 106 hrs 32 mins
+
 JavaScript      102 hrs 41 mins ████████████████████████░   96.33 %
 JSON            1 hr 44 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 CSS             50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
