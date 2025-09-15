@@ -10,13 +10,13 @@ Coding stat for last 30 days:
 <!--START_SECTION:waka-->
 
 ```javascript
-Total Time: 81 hrs 15 mins
+Total Time: 74 hrs 59 mins
 
-JavaScript           67 hrs 39 mins  ████████████████████▓░░░░   82.91 %
-Astro                9 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-JSON                 49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-HTML                 43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-PHP                  40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JavaScript           61 hrs 29 mins  ████████████████████▒░░░░   81.62 %
+Astro                9 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+HTML                 43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JSON                 43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+PHP                  40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
